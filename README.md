@@ -11,7 +11,7 @@ Most familiar with the Front-end, coming from PHP on WordPress with ACF (Advance
 \
 <b>A little more about me:</b>
 \
-Blogger and curious about how websites are coded and work since the "Blogger" era, on aproximately 2010. And I also like to mod games since I first modded a mod called "Deathrun" for Call Of Duty 4, wich was the first time ever I had contact with programming logic with C++ back in 2013 and loved it!
+Blogger and curious about how websites are coded and work since the "Blogger" era, on aproximately 2010. I also like to mod games since I first modded a mod called "Deathrun" for Call Of Duty 4, wich was the first time ever I had contact with programming logic with C++ back in 2013 and loved it!
 \
 \
 I'm a gamer and a gaming/engine/hardware technology enthusiast too, I love watching DigitalFoundry.
