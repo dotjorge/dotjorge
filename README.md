@@ -16,6 +16,22 @@ Blogger and curious about how websites are coded and work since the "Blogger" er
 I'm a gamer and a gaming/engine/hardware technology enthusiast too, I love watching DigitalFoundry.
 
 <b>Learning at the moment:</b>
+```diff
+React and Next.js
+```
+```diff
+TypeScript
+```
+```diff
+Styled Components
+```
+```diff
+WordPress REST API
+```
+```diff
+WordPress REST API
+```
+<!--
 - Next.js
 
 - React
@@ -25,7 +41,7 @@ I'm a gamer and a gaming/engine/hardware technology enthusiast too, I love watch
 - WordPress REST API
 
 - TypeScript
-
+-->
 ## Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-luiz-5a7501206/)](https://www.linkedin.com/in/jorge-luiz-5a7501206/)
 ![Twitch Status](https://img.shields.io/twitch/status/jrgg1?label=Twitch&style=social)
