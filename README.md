@@ -6,7 +6,7 @@
 
 I'm <b>Jorge</b> - a Web Developer and Software Analysis and Development student from Brazil that loves technology in general.
 \
-Most familiar with the Front-end, coming from PHP on WordPress with ACF (Advanced Custom Fields) for both front and back-end to using now Next.js as the front and WP REST API for the back-end, at the moment. Working on a personal project with these characteristics.
+Most familiar with the Front-end, coming from PHP on WordPress with ACF (Advanced Custom Fields) for both front and back-end to using now Next.js as the front and WP REST API for the back, at the moment. Working on a personal project with these characteristics.
 \
 \
 <b>A little more about me:</b>
