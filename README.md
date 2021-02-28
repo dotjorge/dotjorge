@@ -8,6 +8,7 @@ I'm <b>Jorge</b> - a Web Developer and Software Analysis and Development student
 \
 <b>A little more about me:</b>
 \
+\
 Blogger and curious about how websites are coded and work since the "Blogger" era, on aproximately 2010. I also like to mod games since I first modded a mod called "Deathrun" for Call Of Duty 4, wich was the first time ever I had contact with programming logic with C++ back in 2013 and loved it!
 \
 \
