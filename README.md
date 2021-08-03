@@ -22,7 +22,8 @@ I'm a gamer and a gaming/engine/hardware technology enthusiast too, I love watch
 
 
 ## Connect with me
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-luiz-5a7501206/)](https://www.linkedin.com/in/dotjorge/)
+<!--
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-luiz-5a7501206/)](https://www.linkedin.com/in/dotjorge/)-->
 ![Twitch Status](https://img.shields.io/twitch/status/jrgg1?label=Twitch&style=social)
 
 
