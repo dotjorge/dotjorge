@@ -4,21 +4,24 @@
 -->
 
 
-I'm <b>Jorge</b> - a Web Developer and Software Analysis and Development student from Brazil that loves technology in general.
+I'm <b>Jorge</b> - a Front-end Web Developer from Brazil that loves technology in general.
 \
 \
-<b>A little more about me:</b>
+<b>More about me:</b>
 \
-Blogger and curious about how websites are coded and work since the "Blogger" era, on aproximately 2010. I also like to mod games since I first modded a mod called "Deathrun" for Call Of Duty 4, wich was the first time ever I had contact with programming logic with C++ back in 2013 and loved it!
+Curious about how websites are coded and work since the "Blogger" era, on aproximately 2010. I also like to mod games since I first modded a mod called "Deathrun" for Call Of Duty 4, wich was the first time ever I had contact with programming logic with C++ back in 2013 and loved it!
 \
 \
-I'm a gamer and a gaming/engine/hardware technology enthusiast too, I love watching DigitalFoundry.
+I'm also a gamer and a gaming/engine/hardware technology enthusiast too, I love watching DigitalFoundry.
 
 <b>Learning at the moment:</b>
 - React and Next.js
 - TypeScript
 - Styled Components
 - WordPress REST API
+- Tailwind
+- Prisma and PlanetScale
+- tRPC
 
 
 ## Connect with me
