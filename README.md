@@ -7,7 +7,7 @@
 Curious on how websites are coded and work since the "Blogger" era (2010ish). Because of that curiosity I mod games as a hobby since I first modded a mod called "Deathrun" for Call Of Duty 4, wich was the first time ever I had contact with programming logic with C++ back in ~2013. And guess what?! Loved it!
 \
 \
-I'm also a gamer and a gaming/engine/hardware technology enthusiast too, I love watching [DigitalFoundry](https://www.youtube.com/user/digitalfoundry).
+I'm also a gamer and a gaming/engine/hardware technology enthusiast, I love watching [DigitalFoundry](https://www.youtube.com/user/digitalfoundry) for example.
 
 # 🌐 Portfolio: [https://dotjorge.dev/](https://dotjorge.dev/)
 
