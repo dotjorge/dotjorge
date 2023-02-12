@@ -1,28 +1,27 @@
-### Hello there 👋
+# Hello there, I'm Jorge 👋
 <!--
 <img align="right" width="400" height="400" src="url">
 -->
+> A Front-end Web Developer from Brazil that loves technology in general.
 
+Curious about how websites are coded and work since the "Blogger" era (2010ish). I mod games as a hobby since I first modded a mod called "Deathrun" for Call Of Duty 4, wich was the first time ever I had contact with programming logic with C++ back in ~2013 and loved it!
+\
+\
+I'm also a gamer and a gaming/engine/hardware technology enthusiast too, I love watching [DigitalFoundry](https://www.youtube.com/user/digitalfoundry).
 
-I'm <b>Jorge</b> - a Front-end Web Developer from Brazil that loves technology in general.
-\
-\
-<b>More about me:</b>
-\
-Curious about how websites are coded and work since the "Blogger" era, on aproximately 2010. I also like to mod games since I first modded a mod called "Deathrun" for Call Of Duty 4, wich was the first time ever I had contact with programming logic with C++ back in 2013 and loved it!
-\
-\
-I'm also a gamer and a gaming/engine/hardware technology enthusiast too, I love watching DigitalFoundry.
+# 🌐 Portfolio: [https://dotjorge.dev/](https://dotjorge.dev/)
 
-<b>Learning at the moment:</b>
-- React and Next.js
-- TypeScript
-- Styled Components
+> Next.js 13 Fullstack + Prisma + Planetscale 
+
+# 🚀 My skills
+[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,js,react,prisma,wordpress,planetscale,nodejs,html,css,photoshop)](https://skillicons.dev)
+
+# 💻 Learning atm
+- Micro front-ends
+- Web components
+- tRPC
 - WordPress REST API
 - Tailwind
-- Prisma and PlanetScale
-- tRPC
-
 
 ## Connect with me
 <!--
