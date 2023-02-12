@@ -16,7 +16,7 @@ I'm also a gamer and a gaming/engine/hardware/tech in general enthusiast, I love
 # 🚀 My skills
 [![My Skills](https://skillicons.dev/icons?i=nextjs,ts,js,react,prisma,wordpress,planetscale,nodejs,html,css)](https://skillicons.dev)
 
-# 👨‍💻 Learning atm
+# 👨‍💻 Learning
 - Micro front-ends
 - Web components
 - tRPC
