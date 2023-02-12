@@ -14,7 +14,7 @@ I'm also a gamer and a gaming/engine/hardware technology enthusiast, I love watc
 > Next.js 13 Fullstack + Prisma + Planetscale 
 
 # 🚀 My skills
-[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,js,react,prisma,wordpress,planetscale,nodejs,html,css,photoshop)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,ts,js,react,prisma,wordpress,planetscale,nodejs,html,css)](https://skillicons.dev)
 
 # 💻 Learning atm
 - Micro front-ends
