@@ -4,10 +4,10 @@
 -->
 > A Front-end Web Developer from Brazil that loves technology in general.
 
-Curious on how websites are coded and work since the "Blogger" era (2010ish). Because of that curiosity I mod games as a hobby since I first modded a mod called "Deathrun" for Call Of Duty 4, wich was the first time ever I had contact with programming logic with C++ back in ~2013. And guess what?! Loved it!
+Curious on how websites are coded and work since the "Blogger" era (2010ish). Because of that curiosity I used to mod sites and games as a hobby while being just a kid at the time, then I had my first contact with programming logic with C++ back in ~2013 moding and solving a game problem. And guess what? ! Loved it!
 \
 \
-I'm also a gamer and a gaming/engine/hardware/tech in general enthusiast, I love watching [DigitalFoundry](https://www.youtube.com/user/digitalfoundry)!
+I'm also a gaming tech enthusiast, so I love watching [DigitalFoundry](https://www.youtube.com/user/digitalfoundry)!
 
 # 🌐 Portfolio: [https://dotjorge.dev/](https://dotjorge.dev/)
 
